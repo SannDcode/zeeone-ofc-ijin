@@ -60,7 +60,7 @@ But some I haven't changed the language 🛐
 # Instalasi
 ## FOR REPLIT USER
 
-[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Alphabot-Md)](https://repl.it/github/zeeone-ofc/Alphabot-Md)
+[![Run on Repl.it](https://repl.it/badge/github/botzul/zeeone-ofc-ijin)](https://repl.it/github/botzul/zeeone-ofc-ijin)
 
 ----------
 
